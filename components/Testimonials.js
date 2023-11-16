@@ -31,6 +31,7 @@ const Testimonials = () => {
                   style={{width: " 45px", height: " 45px"}}
                   width={200}
                   height={200}
+                  alt="testionial"
                 />
                 <div className="ps-3">
                   <h6 className="fw-bold mb-1">Client Name</h6>
@@ -52,6 +53,7 @@ const Testimonials = () => {
                   src="/img/testimonial-2.jpg"
                   style={{width: " 45px", height: " 45px"}}
                   width={200}
+                  alt="testionial"
                   height={200}
                 />
                 <div className="ps-3">
@@ -74,6 +76,7 @@ const Testimonials = () => {
                   src="/img/testimonial-3.jpg"
                   style={{width: " 45px", height: " 45px"}}
                   width={200}
+                  alt="testionial"
                   height={200}
                 />
                 <div className="ps-3">

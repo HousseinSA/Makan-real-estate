@@ -33,7 +33,7 @@ const Contact = () => {
               width={1000}
               height={600}
               src="/img/header.jpg"
-              alt=""
+              alt="header"
             />
           </div>
         </div>

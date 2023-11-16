@@ -28,7 +28,7 @@ const ContactComponent = () => {
                       style={{width: "45px", height: "45px"}}>
                       <i className="fa fa-map-marker-alt text-primary"></i>
                     </div>
-                    <span>123 Street, New York, USA</span>
+                    <span>PMD, capital, Nouakchott</span>
                   </div>
                 </div>
               </div>
@@ -44,7 +44,7 @@ const ContactComponent = () => {
                       style={{width: "45px", height: "45px"}}>
                       <i className="fa fa-envelope-open text-primary"></i>
                     </div>
-                    <span>info@example.com</span>
+                    <span>nejihoussein1@gmail.com</span>
                   </div>
                 </div>
               </div>
@@ -60,7 +60,7 @@ const ContactComponent = () => {
                       style={{width: "45px", height: "45px"}}>
                       <i className="fa fa-phone-alt text-primary"></i>
                     </div>
-                    <span>+012 345 6789</span>
+                    <span>41401147</span>
                   </div>
                 </div>
               </div>

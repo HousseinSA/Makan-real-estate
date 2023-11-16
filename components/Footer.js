@@ -63,7 +63,7 @@ const Footer = () => {
                     height={200}
                     className="img-fluid rounded bg-light p-1"
                     src="/img/property-1.jpg"
-                    alt=""
+                    alt="property"
                   />
                 </div>
                 <div className="col-4">
@@ -72,7 +72,7 @@ const Footer = () => {
                     height={200}
                     className="img-fluid rounded bg-light p-1"
                     src="/img/property-2.jpg"
-                    alt=""
+                    alt="property"
                   />
                 </div>
                 <div className="col-4">
@@ -81,7 +81,7 @@ const Footer = () => {
                     height={200}
                     className="img-fluid rounded bg-light p-1"
                     src="/img/property-3.jpg"
-                    alt=""
+                    alt="property"
                   />
                 </div>
                 <div className="col-4">
@@ -99,7 +99,7 @@ const Footer = () => {
                     height={200}
                     className="img-fluid rounded bg-light p-1"
                     src="/img/property-5.jpg"
-                    alt=""
+                    alt="property"
                   />
                 </div>
                 <div className="col-4">
@@ -108,7 +108,7 @@ const Footer = () => {
                     height={200}
                     className="img-fluid rounded bg-light p-1"
                     src="/img/property-6.jpg"
-                    alt=""
+                    alt="property"
                   />
                 </div>
               </div>

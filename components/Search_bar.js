@@ -1,8 +1,11 @@
+
+
 const Search_bar = () => {
+
   return (
     // <!-- Search Start -->
     <div
-      className="container-fluid bg-primary mb-5 wow fadeIn"
+      className="container-fluid  bg-primary mb-5 wow fadeIn"
       data-wow-delay="0.1s"
       style={{padding: "35px"}}>
       <div className="container">
@@ -18,7 +21,6 @@ const Search_bar = () => {
               </div>
               <div className="col-md-4">
                 <select className="form-select border-0 py-3">
-                  <option selected>Property Type</option>
                   <option value="1">Property Type 1</option>
                   <option value="2">Property Type 2</option>
                   <option value="3">Property Type 3</option>
@@ -26,7 +28,7 @@ const Search_bar = () => {
               </div>
               <div className="col-md-4">
                 <select className="form-select border-0 py-3">
-                  <option value={'1'}>Location</option>
+                  <option value="1">Location</option>
                   <option value="1">Location 1</option>
                   <option value="2">Location 2</option>
                   <option value="3">Location 3</option>

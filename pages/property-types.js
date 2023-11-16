@@ -24,7 +24,7 @@ const Property_types = () => {
                   aria-current="page">
                   Property Types
                 </li>
-              </ol>
+              </ol> 
             </nav>
           </div>
           <div className="col-md-6 animated fadeIn">
@@ -33,7 +33,7 @@ const Property_types = () => {
               width={1000}
               height={600}
               src="/img/header.jpg"
-              alt=""
+              alt="header"
             />
           </div>
         </div>

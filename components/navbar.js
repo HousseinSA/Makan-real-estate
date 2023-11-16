@@ -29,24 +29,24 @@ const NavBar = () => {
         <div className="collapse navbar-collapse" id="navbarCollapse">
           <div className="navbar-nav ms-auto">
             <Link href="/" className="nav-item nav-link active">
-              Home
+              الرئيسية
             </Link>
             <Link href="/about" className="nav-item nav-link">
-              About
+              حول
             </Link>
             <div className="nav-item dropdown">
               <Link
                 href="#"
                 className="nav-link dropdown-toggle"
                 data-bs-toggle="dropdown">
-                Property
+                العقار
               </Link>
               <div className="dropdown-menu rounded-0 m-0">
                 <Link href="/property-list" className="dropdown-item">
                   Property List
                 </Link>
                 <Link href="/property-types" className="dropdown-item">
-                  Property Type
+                  قائمة العقارات
                 </Link>
                 <Link href="/property-agents" className="dropdown-item">
                   Property Agent
@@ -64,7 +64,6 @@ const NavBar = () => {
                 <Link href="/testimonial" className="dropdown-item">
                   Testimonial
                 </Link>
-                
               </div>
             </div>
             <Link href="/contact" className="nav-item nav-link">

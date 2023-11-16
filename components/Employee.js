@@ -23,7 +23,7 @@ const Employee = () => {
                 <Image
                   className="img-fluid"
                   src="/img/team-1.jpg"
-                  alt=""
+                  alt="team"
                   width={500}
                   height={200}
                 />
@@ -51,7 +51,7 @@ const Employee = () => {
                 <Image
                   className="img-fluid"
                   src="/img/team-2.jpg"
-                  alt=""
+                  alt="team"
                   width={500}
                   height={200}
                 />
@@ -79,7 +79,7 @@ const Employee = () => {
                 <Image
                   className="img-fluid"
                   src="/img/team-3.jpg"
-                  alt=""
+                  alt="team"
                   width={500}
                   height={200}
                 />
@@ -109,7 +109,7 @@ const Employee = () => {
                   src="/img/team-4.jpg"
                   width={500}
                   height={200}
-                  alt=""
+                  alt="team"
                 />
                 <div className="position-absolute start-50 top-100 translate-middle d-flex align-items-center">
                   <Link className="btn btn-square mx-1" href="">

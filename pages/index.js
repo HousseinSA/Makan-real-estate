@@ -7,11 +7,12 @@ import Property_list from "../components/Property_component/Property_list"
 import Call_to_action from "../lib-test/Call_to_action"
 import Employee from "../components/Employee"
 import Testimonials from "../components/Testimonials"
-
+import {useEffect, useState} from "react"
+import axios from "axios"
 const Homepage = () => {
+ 
   return (
     <Main_container>
-
       <Header_content />
       <Search_bar />
       <Category />
